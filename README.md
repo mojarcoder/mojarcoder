@@ -82,36 +82,24 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
+
 
 <!--🖼️OCTOCAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-<!--🌯GITHUBWRAPPED / 🌐WEBSITE: https://github.com/neat-run/wrapped -->
-<!--<p align="center"> -->
-<!--<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a> -->
+
 
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/ironmaniiith/Github-profile-name-writer -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
+<img src="https://raw.githubusercontent.com/mojarcoder/mojarcoder/master/github_stats.svg">
 
-
-<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
 
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
 
 
-
-<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/cheehwatang/github-readme-daily-quotes & https://github.com/shravan20/github-readme-quotes -->
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?theme=merko&border=true">
 <p align="center">
 <img src="https://github-readme-daily-quotes-trinib.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
 
@@ -145,7 +133,7 @@
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-</h4>
+
 
 
 
